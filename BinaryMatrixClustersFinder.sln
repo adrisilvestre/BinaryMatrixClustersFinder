@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29201.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaSirenaMatrix", "LaSirenaMatrix.csproj", "{A4537E75-E672-469D-8E6C-B457963CBD38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinaryMatrixClusterFinderMain", "BinaryMatrixClusterFinderMain.csproj", "{A4537E75-E672-469D-8E6C-B457963CBD38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryMatrixClusterFinderUT", "..\BinaryMatrixClusterFinderUT\BinaryMatrixClusterFinderUT.csproj", "{804E0D1C-B476-4ED1-9976-87FD54E53B10}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{A4537E75-E672-469D-8E6C-B457963CBD38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4537E75-E672-469D-8E6C-B457963CBD38}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4537E75-E672-469D-8E6C-B457963CBD38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{804E0D1C-B476-4ED1-9976-87FD54E53B10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{804E0D1C-B476-4ED1-9976-87FD54E53B10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{804E0D1C-B476-4ED1-9976-87FD54E53B10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{804E0D1C-B476-4ED1-9976-87FD54E53B10}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
