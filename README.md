@@ -2,7 +2,7 @@
  Count the cluster in any given boolean matrix.
 
 The problem states as follows:
-Imagine you are the owner of a big supermarket chain, and your planning to open more stores in Puerto Rico. Puerto Rico is made under a\ grid city plan, where the cities can be easily divided in rectangular or square blocks. The structure of the cities can be represented\ with a R*C blocks matrix. Each block can be either a building or a wasteland. The building are represented with a number one (1) and the\ wastelands with a zero (0).
+Imagine you are the owner of a big supermarket chain, and your planning to open more stores in Puerto Rico. Puerto Rico is made under a</br> grid city plan, where the cities can be easily divided in rectangular or square blocks. The structure of the cities can be represented\ with a R*C blocks matrix. Each block can be either a building or a wasteland. The building are represented with a number one (1) and the\ wastelands with a zero (0).
 A cluster is a collection of one or more adjacent buildings (one single building is considered to be a cluster). The buildings that form a\ diagonal are not considered adjecent to each other (at least not directly), just the one which are next to each other in a completly\ horizontal or vertical way.\ 
 Your supermarket chain can only open stores in clusters and just one store in each cluster.
 
