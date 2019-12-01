@@ -18,7 +18,7 @@ Your output must be an interger which indicates the amounts of stores that can b
 
 **Input** </br>
 rows->5 an interger variable containing the amount of rows. </br>
-columns->4 an interger variable containing the amount of column. </br>
+columns->4 an interger variable containing the amount of columns. </br>
 matrix-> </br>
 1, 1, 0, 0 </br>
 0, 0, 1, 0 </br>
