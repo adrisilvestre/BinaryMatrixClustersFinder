@@ -28,3 +28,5 @@ matrix-> </br>
 
 **Output**</br>
 The output must be 4 since there are 4 clusters of buildings.
+
+Note: I strongly recommend testing your algorithm with the matrix given above since it features a special case where intuitive approaches to solving the problem do not work propertly.
