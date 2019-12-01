@@ -17,16 +17,18 @@ Your output must be an interger which indicates the amounts of stores that can b
 ## Here's an example:
 
 **Input** </br>
-rows->5 </br>
-columns->4 </br>
+rows->5 an interger variable containing the amount of rows. </br>
+columns->4 an interger variable containing the amount of column. </br>
 matrix-> </br>
 1, 1, 0, 0 </br>
 0, 0, 1, 0 </br>
 0, 1, 0, 0 </br>
 1, 0, 1, 1 </br>
 1, 1, 1, 1 </br>
+a two-dimensional interger array containing a boolean matrix. </br>
 
 **Output**</br>
 The output must be 4 since there are 4 clusters of buildings.
+Quick Explanation: from the first row to the third row there's one cluster per row, and the forth and fifth row form a single cluster, that makes a total of four (4) clusters in the entire matrix.
 
 Note: I strongly recommend testing your algorithm with the matrix given above since it features a special case where intuitive approaches to solving the problem do not work propertly.
